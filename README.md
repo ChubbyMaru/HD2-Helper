@@ -50,25 +50,22 @@ overlayKey=
 | **=** | `Oemplus` | 등호 |
 | **[** | `Oem4` | 왼쪽 대괄호 |
 | **]** | `Oem6` | 오른쪽 대괄호 |
-| **\** | `Oem5` | 역슬래시 |
+| **\\** | `Oem5` | 역슬래시 |
 | **;** | `Oem1` | 세미콜론 |
 | **'** | `Oem7` | 작은따옴표 |
 | **,** | `OemComma` | 쉼표 |
 | **.** | `OemPeriod` | 점 |
 | **/** | `Oem2` | 슬래시 |
+| **F1 – F24** | `F1` – `F24` | 기능 키 |
+| **Left Shift / Right Shift** | `LShiftKey` / `RShiftKey` | 왼쪽 시프트 / 오른쪽 시프트 |
+| **Left Ctrl / Right Ctrl** | `LControlKey` / `RControlKey` | 왼쪽 컨트롤 / 오른쪽 컨트롤 |
+| **Left Alt / Right Al** | `LMenu` / `RMenu` | 왼쪽 알트 / 오른쪽 알트 |
 | **Space** | `Space` | 스페이스바 |
 | **Enter** | `Return` | 엔터 |
 | **Backspace** | `Back` | 백스페이스 |
 | **Tab** | `Tab` | 탭 |
 | **Escape** | `Escape` | ESC |
 | **CapsLock** | `CapsLock` | 캡스락 |
-| **Left Shift** | `LShiftKey` | 왼쪽 시프트 |
-| **Right Shift** | `RShiftKey` | 오른쪽 시프트 |
-| **Left Ctrl** | `LControlKey` | 왼쪽 컨트롤 |
-| **Right Ctrl** | `RControlKey` | 오른쪽 컨트롤 |
-| **Left Alt** | `LMenu` | 왼쪽 알트 |
-| **Right Alt** | `RMenu` | 오른쪽 알트 |
-| **F1 – F24** | `F1` – `F24` | 기능 키 |
 | **Insert** | `Insert` | 인서트 |
 | **Delete** | `Delete` | 딜리트 |
 | **Home** | `Home` | 홈 |
@@ -85,3 +82,8 @@ overlayKey=
 | **Subtract** | `Subtract` | 넘버패드 - |
 | **Add** | `Add` | 넘버패드 + |
 | **Decimal** | `Decimal` | 넘버패드 . |
+
+---
+
+### 추후 업데이트(?)
+* **스트라타젬 관리 / 단축키 설정 UI**
