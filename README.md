@@ -1,23 +1,22 @@
-<img width="1452" height="825" alt="1" src="https://github.com/user-attachments/assets/f529fa1b-ffbf-454f-b73d-fa99d7e3af25" />
+<img width="850" height="825" alt="1" src="https://github.com/user-attachments/assets/f529fa1b-ffbf-454f-b73d-fa99d7e3af25" />
 <img width="850" height="478" alt="2" src="https://github.com/user-attachments/assets/554314f3-799b-404c-aa9d-5b4e1b6e6bae" />
 
-### 주요 기능
+## 헬다이버즈2 스트라타젬 보조 기구
+[다운로드 하러 가기](https://github.com/ChubbyMaru/HD2-Stratagem-Tool/releases/latest)
+
+## 주요 기능
 * **스트라타젬 설정 자동 인식 :** 프로그램 실행 시 인게임 스트라타젬 설정을 자동으로 로드합니다.
 * **사후 데이터 관리 :** 업데이트가 중단되어도 `stratagems.json` 수정을 통해 새로운 스트라타젬을 추가할 수 있습니다.
 * **단축키 지원 :** 할당된 단축키의 스트라타젬을 바로 사용할 수 있습니다.
 * **오버레이 지원 :** 마우스 중심 오버레이(라디얼 메뉴)로 직관적인 선택이 가능합니다.
 * **사용자 친화적 UI :** 인게임과 동일한 배열 및 마우스 오버 시 이름 표시 기능을 지원합니다.
 
----
-
-### 사용 방법
+## 사용 방법
 * **오버레이 단축키 :** `MButton` (마우스 휠 클릭)
 * **증원 단축키 :** `XButton1` (마우스 뒤로가기)
 * **슬롯 단축키 :** `F6` ~ `F9`
 
----
-
-### 설정 변경 (`settings.ini`)
+## 설정 변경 (`settings.ini`)
 단축키를 변경하고 싶다면 파일을 열어 수정하면 됩니다.
 
 ```ini
@@ -33,18 +32,33 @@ slot3=F9
 ```ini
 overlayKey=
 ```
----
 
-### 단축키 목록
+## 단축키 목록
 
-| 구분 | 키 명칭 (Value) | 설명 |
+<details>
+<summary><b>키보드</b></summary>
+  
+| 구분 | 설정 값 | 설명 |
 | --- | --- | --- |
-| **MButton** | `MButton` | 마우스 휠 클릭 |
-| **XButton1** | `XButton1` | 마우스 뒤로가기 |
-| **XButton2** | `XButton2` | 마우스 앞으로가기 |
 | **A – Z** | `A` – `Z` | 알파벳 |
 | **0 – 9** | `D0` – `D9` | 상단 숫자 키 |
 | **Numpad 0 – 9** | `NumPad0` – `NumPad9` | 넘버패드 숫자 |
+| **F1 – F24** | `F1` – `F24` | 기능 키 |
+| **Left Shift / Right Shift** | `LShiftKey` / `RShiftKey` | 왼쪽 시프트 / 오른쪽 시프트 |
+| **Left Ctrl / Right Ctrl** | `LControlKey` / `RControlKey` | 왼쪽 컨트롤 / 오른쪽 컨트롤 |
+| **Left Alt / Right Alt** | `LMenu` / `RMenu` | 왼쪽 알트 / 오른쪽 알트 |
+| **Escape** | `Escape` | ESC |
+| **Tab** | `Tab` | 탭 |
+| **Backspace** | `Back` | 백스페이스 |
+| **CapsLock** | `CapsLock` | 캡스락 |
+| **Space** | `Space` | 스페이스바 |
+| **Enter** | `Return` | 엔터 |
+| **Insert** | `Insert` | 인서트 |
+| **Home** | `Home` | 홈 |
+| **Delete** | `Delete` | 딜리트 |
+| **End** | `End` | 엔드 |
+| **PageUp** | `PageUp` | 페이지 업 |
+| **PageDown** | `PageDown` | 페이지 다운 |
 | **~** | `Oem3` | 틸드 / 백틱 |
 | **-** | `OemMinus` | 마이너스 |
 | **=** | `Oemplus` | 등호 |
@@ -56,22 +70,6 @@ overlayKey=
 | **,** | `OemComma` | 쉼표 |
 | **.** | `OemPeriod` | 점 |
 | **/** | `Oem2` | 슬래시 |
-| **F1 – F24** | `F1` – `F24` | 기능 키 |
-| **Left Shift / Right Shift** | `LShiftKey` / `RShiftKey` | 왼쪽 시프트 / 오른쪽 시프트 |
-| **Left Ctrl / Right Ctrl** | `LControlKey` / `RControlKey` | 왼쪽 컨트롤 / 오른쪽 컨트롤 |
-| **Left Alt / Right Al** | `LMenu` / `RMenu` | 왼쪽 알트 / 오른쪽 알트 |
-| **Space** | `Space` | 스페이스바 |
-| **Enter** | `Return` | 엔터 |
-| **Backspace** | `Back` | 백스페이스 |
-| **Tab** | `Tab` | 탭 |
-| **Escape** | `Escape` | ESC |
-| **CapsLock** | `CapsLock` | 캡스락 |
-| **Insert** | `Insert` | 인서트 |
-| **Delete** | `Delete` | 딜리트 |
-| **Home** | `Home` | 홈 |
-| **End** | `End` | 엔드 |
-| **PageUp** | `PageUp` | 페이지 업 |
-| **PageDown** | `PageDown` | 페이지 다운 |
 | **↑** | `Up` | 화살표 상 |
 | **↓** | `Down` | 화살표 하 |
 | **←** | `Left` | 화살표 좌 |
@@ -82,8 +80,37 @@ overlayKey=
 | **Subtract** | `Subtract` | 넘버패드 - |
 | **Add** | `Add` | 넘버패드 + |
 | **Decimal** | `Decimal` | 넘버패드 . |
+</details>
 
----
+<details>
+<summary><b>마우스</b></summary>
+  
+| 구분 | 설정 값 | 설명 |
+| --- | --- | --- |
+| **MButton** | `MButton` | 마우스 휠 클릭 |
+| **XButton1** | `XButton1` | 마우스 뒤로가기 |
+| **XButton2** | `XButton2` | 마우스 앞으로가기 |
+</details>
 
-### 추후 업데이트(?)
-* **스트라타젬 관리 / 단축키 설정 UI**
+<details>
+<summary><b>컨트롤러</b></summary>
+  
+| 구분 | 설정 값 | 설명 |
+| --- | --- | --- |
+| **A** | `PadA` | A 버튼 |
+| **B** | `PadB` | B 버튼 |
+| **X** | `PadX` | X 버튼 |
+| **Y** | `PadY` | Y 버튼 |
+| **↑** | `DUp` | D-Pad 상 |
+| **↓** | `DDown` | D-Pad 하 |
+| **←** | `DLeft` | D-Pad 좌 |
+| **→** | `DRight` | D-Pad 우 |
+| **Start** | `PadStart` | Menu 버튼 |
+| **Back** | `PadBack` | View/Share 버튼 |
+| **L1** | `L1` | LB 버튼 |
+| **R1** | `R1` | RB 버튼 |
+| **L2** | `L2` | LT 트리거 |
+| **R2** | `R2` | RT 트리거 |
+| **L3** | `L3` | LS 버튼 |
+| **R3** | `R3` | RS 버튼 |
+</details>
