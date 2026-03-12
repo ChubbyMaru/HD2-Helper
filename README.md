@@ -1,5 +1,5 @@
-<img width="850" height="721" alt="1" src="https://github.com/user-attachments/assets/7ef86883-4817-4607-b93f-77f1a355020e" />
-<img width="850" height="478" alt="2" src="https://github.com/user-attachments/assets/554314f3-799b-404c-aa9d-5b4e1b6e6bae" />
+<img width="1452" height="721" alt="1" src="https://github.com/user-attachments/assets/59d96440-a09a-4489-a634-970c231a825f" />
+<img width="1921" height="1081" alt="2" src="https://github.com/user-attachments/assets/43115318-c97b-4ec8-9533-2129bb908743" />
 
 ## 헬다이버즈2 스트라타젬 보조 기구
 * **즉각적인 민주주의 전파**<br>설정창에서 낭비할 시간은 없습니다. 실행 즉시 게임 설정을 감지하여 귀하를 전장으로 사출합니다.
@@ -20,23 +20,22 @@
 * **슬롯 단축키 :** `F6` ~ `F12`
 
 ## 설정 변경 (`settings.ini`)
-단축키를 변경하고 싶다면 파일을 열어 수정하면 됩니다.
+`overlayKey` / `reinforceKey` / `key` 항목에는 단축키 설정 값 입력<br>
+`stratagem` 항목에는 해당 슬롯에 기본 값으로 적용할 스트라타젬 이름 입력
 
 ```ini
 [Hotkeys]
 overlayKey=MButton
 reinforceKey=XButton1
-slot0=F6
-slot1=F7
-slot2=F8
-slot3=F9
-slot4=F10
-slot5=F11
-slot6=F12
+
+[Slot1]
+key=F6
+stratagem=지옥폭탄
 ```
-단축키를 해제하고 싶다면 값을 비워두면 됩니다.
+값을 비워두면 비활성화 됩니다.
 ```ini
-overlayKey=
+key=
+stratagem=
 ```
 
 ## 단축키 목록
@@ -99,7 +98,7 @@ overlayKey=
 </details>
 
 <details>
-<summary><b>컨트롤러</b></summary>
+<summary><b>패드</b></summary>
   
 | 구분 | 설정 값 | 설명 |
 | --- | --- | --- |
