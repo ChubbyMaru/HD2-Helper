@@ -119,3 +119,7 @@ stratagem=
 | **L3** | `L3` | LS 버튼 |
 | **R3** | `R3` | RS 버튼 |
 </details>
+
+## 개발자 정보
+* **스팀 :** `https://steamcommunity.com/id/guppy3063`<br>
+* **디스코드 :** `9p._.`
