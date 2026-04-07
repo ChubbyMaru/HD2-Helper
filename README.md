@@ -14,7 +14,7 @@
 
 * **패드 지원**<br>`XBOX` / `PS` 외에도 다양한 패드를 지원하여, 모든 기능을 사용할 수 있습니다.
 
-* **사후 데이터 관리**<br>업데이트가 중단되어도 `stratagems.json` 수정을 통해 스트라타젬을 추가할 수 있습니다.
+* **사후 데이터 관리**<br>업데이트가 중단되어도 `database.json` 수정을 통해 직접 추가할 수 있습니다.
 
 * [보조 기구 장착하기 (Download)](https://github.com/ChubbyMaru/HD2-Stratagem-Tool/releases/latest)
 
