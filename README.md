@@ -19,7 +19,7 @@
 
 * **사후 데이터 관리**<br>업데이트가 중단되어도 `database.json` 수정을 통해 직접 추가할 수 있습니다.
 
-* [보조 기구 장착하기 (Download)](https://github.com/ChubbyMaru/HD2-Stratagem-Tool/releases/latest)
+* [보조 기구 장착하기 (Download)](https://github.com/ChubbyMaru/HD2-Helper/releases/latest)
 
 ## 단축키 기본 값
 * **증원 :** `마우스 버튼1(뒤로 가기)`
