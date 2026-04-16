@@ -1,17 +1,19 @@
-<img src="https://github.com/user-attachments/assets/f7d7d0c5-0534-47ae-8623-2b42d158c012" />
-<img src="https://github.com/user-attachments/assets/2f6db6c5-4797-419d-a84e-b22569b2b753" />
+<img src="https://github.com/user-attachments/assets/867081b0-292c-435c-91fd-bfc3536ad288" />
+<img src="https://github.com/user-attachments/assets/bf9f46f1-08a1-4d8e-ac06-70c413825746" />
 <img src="https://github.com/user-attachments/assets/43115318-c97b-4ec8-9533-2129bb908743" />
 <img src="https://github.com/user-attachments/assets/272cf112-5a7d-4993-b402-f915e1b2f749" />
 
-## 헬다이버즈2 스트라타젬 보조 기구
+## 헬다이버즈2 보조 기구
 * **스트라타젬 단축키 자동 인식**<br>게임 설정 파일 `input_settings.config` 기반으로 작동하여 별도의 초기 설정이 필요 없습니다.
 
 * **로드아웃 & 스트라타젬 자동 선택**<br>게임 내 장비구성 메뉴에서 단축키 한 번으로 설정된 항목들을 자동으로 선택합니다.<br>
 `보유하지 않은 장비 및 스트라타젬은 우클릭으로 제외해야 정상 작동합니다.`
 
-* **라디얼 오버레이**<br>게임 내 오버레이로 직관적인 스트라타젬 선택이 가능합니다.
+* **한글 채팅**<br>별도 오버레이 없이 게임 내 채팅창에서 즉시 한글을 입력합니다.
 
 * **슬롯별 단축키**<br>각 슬롯에 설정된 스트라타젬을 복잡한 커맨드 없이 단축키 하나로 사용 가능합니다.
+
+* **라디얼 오버레이**<br>게임 내 오버레이로 직관적인 스트라타젬 선택이 가능합니다.
 
 * **패드 지원**<br>`XBOX` / `PS` 외에도 다양한 패드를 지원하여, 모든 기능을 사용할 수 있습니다.
 
