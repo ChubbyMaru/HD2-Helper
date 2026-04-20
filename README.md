@@ -1,5 +1,5 @@
-<img src="https://github.com/user-attachments/assets/867081b0-292c-435c-91fd-bfc3536ad288" />
-<img src="https://github.com/user-attachments/assets/bf9f46f1-08a1-4d8e-ac06-70c413825746" />
+<img src="https://github.com/user-attachments/assets/f6ba101d-bf27-4be6-b318-f5ce2d6a2457" />
+<img src="https://github.com/user-attachments/assets/a7b39fc8-a1ea-449f-b734-9a33049d6049" />
 <img src="https://github.com/user-attachments/assets/43115318-c97b-4ec8-9533-2129bb908743" />
 <img src="https://github.com/user-attachments/assets/272cf112-5a7d-4993-b402-f915e1b2f749" />
 
@@ -24,9 +24,9 @@
 * [보조 기구 장착하기 (Download)](https://github.com/ChubbyMaru/HD2-Helper/releases/latest)
 
 ## 단축키 기본 값
-* **증원 :** `마우스 버튼1(뒤로 가기)`
-* **오버레이 :** `마우스 휠 클릭`
 * **자동선택 :** `F1`
+* **오버레이 :** `마우스 휠 클릭`
+* **증원 :** `마우스 버튼1(뒤로 가기)`
 
 ## 개발자 정보
 * **디스코드 :** `9p._.`
